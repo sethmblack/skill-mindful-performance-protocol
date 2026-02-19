@@ -4,7 +4,7 @@ description: Introduce mindfulness practices to improve focus, composure, and un
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4502
+  version: 1.0.4503
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - mindful-performance-protocol
